@@ -1,0 +1,1 @@
+{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{"config.xml":{"/*":{"<feature name=\"PushPlugin\"><param name=\"ios-package\" value=\"PushPlugin\" /></feature>":1}}},"installed_plugins":{"com.phonegap.plugins.PushPlugin":{"PACKAGE_NAME":"com.phonegap.helloworld"}},"dependent_plugins":{}}
